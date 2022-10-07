@@ -19,7 +19,7 @@ Step 4) Running the file
 ### Make sure the file is out of any busy directories, moving it to an empty folder will help to improve the performance and prevent any errors
 --
 ## Step 3) Editing Variables
-### In order for the file to run, you must edit the corresponding data areas.#
+### In order for the file to run, you must edit the corresponding data areas.
 ### If you are unsure on how to get a Token, [view this guide]()
 ```
 - File main.py - Line 51 (Change to your bot's token)
