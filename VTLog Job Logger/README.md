@@ -22,6 +22,7 @@ Step 4) Running the file
 ### In order for the file to run, you must edit the corresponding data areas.
 ### If you are unsure on how to get a Token, [view this guide](https://discordpy.readthedocs.io/en/stable/discord.html)
 ```
+- File main.py - Line 27 (Change "PREFIX" to your desired prefix (!, ?, +))
 - File main.py - Line 51 (Change to your bot's token)
 - File ./cogs/vtlog.py - Line 111 (Change to the guild (server) ID that the bot is present in)
 - File ./cogs/vtlog.py - Line 112 (Change to the text channel you would like VTLog messages to be displayed in)
