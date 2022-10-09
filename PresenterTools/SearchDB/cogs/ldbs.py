@@ -25,7 +25,7 @@ class ldbsHandler(commands.Cog):
     def __init__(self, ldbsClient):
         self.ldbsClient = ldbsClient
 
-    GUILDID = 0
+    GUILDID = 0 #-Set
 
     #────────────────────》 Commands 《────────────────────
 
