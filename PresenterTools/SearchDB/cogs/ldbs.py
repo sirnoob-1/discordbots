@@ -25,7 +25,7 @@ class ldbsHandler(commands.Cog):
     def __init__(self, ldbsClient):
         self.ldbsClient = ldbsClient
 
-    GUILDID = 899031670974464040
+    GUILDID = 0
 
     #────────────────────》 Commands 《────────────────────
 
