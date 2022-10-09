@@ -46,4 +46,4 @@ if not os.path.exists('./media'):
 
 
 #-Run-
-ldbsClient.run('ODgyOTI5MDQwMzE3NjQ0ODIx.G7Drzv._xDDj0huaRQJwQbZ9oTI9SlQMf6fi5LtP2aJSw') #-Set
+ldbsClient.run('INSERT TOKEN HERE') #-Set
