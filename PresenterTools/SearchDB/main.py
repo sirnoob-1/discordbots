@@ -25,7 +25,6 @@ from nextcord.ext import commands
 
 #━━━━━━━━━━━━━━━━━━━━━ ❯ PresenterTools LocalDBSearcher Declerations ❮ ━━━━━━━━━━━━━━━━━━━━━
 
-
 ldbsClient = commands.Bot(command_prefix = ["PREFIX"], case_insensitive = True, intents = nextcord.Intents.all()) #-Set
 ldbsClient.remove_command('help')
 
