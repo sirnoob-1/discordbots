@@ -38,7 +38,7 @@ Step 4) Running the file
 ## Contact Me
 If you're having issues running this application, let me know!
 - Discord: [sirnoob_1#0001](https://discord.com/users/304333708599754753)
-- Email: [tom.chetwynd@outlook.com](mailto:tom.chetwynd@outlook.com)
+- Email: [hello@sirnoob.dev](mailto:hello@sirnoob.dev)
 
 Please do not distribute this software, or any on my profile, without reference or contacting me prior.
 
