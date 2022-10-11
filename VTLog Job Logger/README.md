@@ -1,7 +1,7 @@
 
 # Getting Started
 
-### The VTLog Job Logger Discord Bot is an extension from the VTLog Job Logger application used to track trucking jobs fully autonomously. This application is very easy to setup and run with these instrcutions, you will have job logging in your server in no time. It is recommended to host this bot 24/7 on a VPS or other hosting provider.
+### The VTLog Job Logger Discord Bot is an extension from the VTLog Job Logger application used to track trucking jobs fully autonomously. This application is very easy to setup and run with these instrcutions, you will have job logging in your server in no time. It is recommended to host this bot 24/7 on a VPS or other hosting provider. You must have the nextcord library and requests library installed in Python for this application to worK
 
 ---
 ## Installation Brief
