@@ -118,7 +118,6 @@ class VtlogHandler(commands.Cog):
 
         print('Job Logger -- [SUCCESS] Job Cycle Exited - Completed in ' + str(int(time.time() - startTime)) + ' seconds')
 
-
     #-MemberUpdater-
     @tasks.loop(seconds = 600)
     async def memberUpdater(self):
