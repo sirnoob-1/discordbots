@@ -85,7 +85,7 @@ class VtlogHandler(commands.Cog):
             jobEmbed.add_field(name = '🚨 Cargo', value = jobCargo["name"])
             jobEmbed.add_field(name = '🏋️‍♂️ Weight', value = str(jobCargo["mass"]) + 'kg')
             jobEmbed.add_field(name = '⏰ Duration', value = str(datetime.timedelta(seconds = jobDest["arrival"] - jobSource["departure"])))
-            jobEmbed.add_field(name = '🌎 Fuel Economy', value = round(int(jobData["fuel_consumed"]) / jobData["distance_driven"] * 100, 2)  + ' L / 100km')
+            jobEmbed.add_field(name = '🌎 Fuel Economy', value = str(round(int(jobData["fuel_consumed"]) / jobData["distance_driven"] * 100, 2))  + ' L / 100km')
             jobEmbed.add_field(name = '⛽ Fuel', value = str(jobData["fuel_consumed"]) + 'L')
             jobEmbed.add_field(name = '💵 Profit', value = str(jobFinance["total_profit"]) + ' Credits')
             jobEmbed.add_field(name = '📥 Earned Credits', value = jobFinance["total_income"])
